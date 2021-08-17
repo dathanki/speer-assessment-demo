@@ -1,0 +1,55 @@
+.sectionContainer {
+  width: 100%;
+  padding: 0rem 0rem 0rem 0rem;
+  margin: 0rem 0rem 0rem 0rem;
+  background-color: transparent;
+  position: relative;
+
+  .sectionBtnWhite {
+    margin: 3.5rem 5rem 0rem 0rem;
+    padding: 1.75rem 6.75rem;
+    justify-content: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    color: rgba(0, 0, 0, 0.932);
+    font-size: 1.2em;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+    overflow: hidden;
+    border-radius: 100px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    mix-blend-mode: screen;
+    
+      &::before {
+        --size: 0;
+        content: "";
+        position: absolute;
+        left: var(--x);
+        top: var(--y);
+        width: var(--size);
+        height: var(--size);
+        background: radial-gradient(circle closest-side, #05e7f7, transparent);
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        transition: width 0.2s ease, height 0.2s ease;
+      }
+      &:hover {
+        &::before {
+          --size: 400px;
+        }
+      }
+  }
+
+  .sectionContent {
+    width: 100%;
+    margin: 0rem 0rem 0rem 0rem;
+    background-color: green;
+    position: relative;
+
+   
+  }
+}

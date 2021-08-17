@@ -1,0 +1,41 @@
+.burger {
+    color: black;
+}
+
+.payments{
+    margin: 0rem 0rem 0rem 0rem;
+    padding: 0rem 0rem 0rem 0rem;
+
+    h1 {
+        font-weight: 900;
+        letter-spacing: 7.5px;
+        font-size: 7rem;
+        margin: 0rem 0rem 0rem 0rem;
+        padding: 12rem 19rem 3rem 12rem;
+    }
+}
+
+.radioPlan {
+    padding: 6rem 19rem 3rem 12rem;
+    letter-spacing: .5rem;
+
+    radiobtn{
+        margin: 0rem 0rem 0rem 0rem;
+        padding: 0rem 0rem 0rem 0rem;
+
+    }
+}
+
+.row {
+    width: 100%;
+    padding-top: 2rem;
+    margin: 4rem 0rem 100rem 13rem;
+    display: block;
+    text-align: left;
+}
+.column {
+    padding: 0rem 0rem 0rem 0rem;
+    margin: 0rem -15rem 0rem 0rem;
+    float: left;
+    width: 50%;
+}
