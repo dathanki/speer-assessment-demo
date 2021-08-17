@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/%7Bspeer-assessment-demo%7D/static/css/main.8ac5bef6.chunk.css",
-    "main.js": "/%7Bspeer-assessment-demo%7D/static/js/main.8c97df06.chunk.js",
-    "main.js.map": "/%7Bspeer-assessment-demo%7D/static/js/main.8c97df06.chunk.js.map",
-    "runtime-main.js": "/%7Bspeer-assessment-demo%7D/static/js/runtime-main.68b9298c.js",
-    "runtime-main.js.map": "/%7Bspeer-assessment-demo%7D/static/js/runtime-main.68b9298c.js.map",
-    "static/css/2.983f79de.chunk.css": "/%7Bspeer-assessment-demo%7D/static/css/2.983f79de.chunk.css",
-    "static/js/2.5dd5b765.chunk.js": "/%7Bspeer-assessment-demo%7D/static/js/2.5dd5b765.chunk.js",
-    "static/js/2.5dd5b765.chunk.js.map": "/%7Bspeer-assessment-demo%7D/static/js/2.5dd5b765.chunk.js.map",
-    "index.html": "/%7Bspeer-assessment-demo%7D/index.html",
-    "static/css/2.983f79de.chunk.css.map": "/%7Bspeer-assessment-demo%7D/static/css/2.983f79de.chunk.css.map",
-    "static/css/main.8ac5bef6.chunk.css.map": "/%7Bspeer-assessment-demo%7D/static/css/main.8ac5bef6.chunk.css.map",
-    "static/js/2.5dd5b765.chunk.js.LICENSE.txt": "/%7Bspeer-assessment-demo%7D/static/js/2.5dd5b765.chunk.js.LICENSE.txt",
-    "static/media/default.scss": "/%7Bspeer-assessment-demo%7D/static/media/HelveticaNeueLight.6649b90d.woff",
-    "static/media/SmallSpeaker1-03.8e7b36c6.png": "/%7Bspeer-assessment-demo%7D/static/media/SmallSpeaker1-03.8e7b36c6.png",
-    "static/media/SmallSpeaker2-03.bfb2c4de.png": "/%7Bspeer-assessment-demo%7D/static/media/SmallSpeaker2-03.bfb2c4de.png",
-    "static/media/medium17.13c131bf.png": "/%7Bspeer-assessment-demo%7D/static/media/medium17.13c131bf.png",
-    "static/media/medium27.a7bb7507.png": "/%7Bspeer-assessment-demo%7D/static/media/medium27.a7bb7507.png"
+    "main.css": "/speer-assessment-demo/static/css/main.e0062e20.chunk.css",
+    "main.js": "/speer-assessment-demo/static/js/main.8c97df06.chunk.js",
+    "main.js.map": "/speer-assessment-demo/static/js/main.8c97df06.chunk.js.map",
+    "runtime-main.js": "/speer-assessment-demo/static/js/runtime-main.fb79f6e5.js",
+    "runtime-main.js.map": "/speer-assessment-demo/static/js/runtime-main.fb79f6e5.js.map",
+    "static/css/2.983f79de.chunk.css": "/speer-assessment-demo/static/css/2.983f79de.chunk.css",
+    "static/js/2.5dd5b765.chunk.js": "/speer-assessment-demo/static/js/2.5dd5b765.chunk.js",
+    "static/js/2.5dd5b765.chunk.js.map": "/speer-assessment-demo/static/js/2.5dd5b765.chunk.js.map",
+    "index.html": "/speer-assessment-demo/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/speer-assessment-demo/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.e0062e20.chunk.css.map": "/speer-assessment-demo/static/css/main.e0062e20.chunk.css.map",
+    "static/js/2.5dd5b765.chunk.js.LICENSE.txt": "/speer-assessment-demo/static/js/2.5dd5b765.chunk.js.LICENSE.txt",
+    "static/media/default.scss": "/speer-assessment-demo/static/media/HelveticaNeueLight.6649b90d.woff",
+    "static/media/SmallSpeaker1-03.8e7b36c6.png": "/speer-assessment-demo/static/media/SmallSpeaker1-03.8e7b36c6.png",
+    "static/media/SmallSpeaker2-03.bfb2c4de.png": "/speer-assessment-demo/static/media/SmallSpeaker2-03.bfb2c4de.png",
+    "static/media/medium17.13c131bf.png": "/speer-assessment-demo/static/media/medium17.13c131bf.png",
+    "static/media/medium27.a7bb7507.png": "/speer-assessment-demo/static/media/medium27.a7bb7507.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.68b9298c.js",
+    "static/js/runtime-main.fb79f6e5.js",
     "static/css/2.983f79de.chunk.css",
     "static/js/2.5dd5b765.chunk.js",
-    "static/css/main.8ac5bef6.chunk.css",
+    "static/css/main.e0062e20.chunk.css",
     "static/js/main.8c97df06.chunk.js"
   ]
 }
