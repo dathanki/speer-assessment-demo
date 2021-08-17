@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from "react-redux";
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import { createStore } from "redux";
 import handleCarousel from "./redux/reducer";
 import "./../node_modules/bootstrap/dist/css/bootstrap.css"
@@ -13,11 +13,11 @@ const store = createStore(handleCarousel);
 
 ReactDOM.render(
   <React.StrictMode>
-   <BrowserRouter>  
+   <Router>  
     <Provider store={store}>
       <App />
     </Provider>
-    </BrowserRouter>  
+    </Router>  
   </React.StrictMode >,
   document.getElementById('root')
 );
