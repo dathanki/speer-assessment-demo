@@ -13,11 +13,11 @@ const store = createStore(handleCarousel);
 
 ReactDOM.render(
   <React.StrictMode>
-   <Router>  
+   <HashRouter>  
     <Provider store={store}>
       <App />
     </Provider>
-    </Router>  
+    </HashRouter>  
   </React.StrictMode >,
   document.getElementById('root')
 );
