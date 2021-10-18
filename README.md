@@ -1,3 +1,7 @@
+# Live deployment
+
+This project was deployed using [Github pages](https://dathanki.github.io/speer-assessment-demo/#/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
